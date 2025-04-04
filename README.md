@@ -16,34 +16,34 @@ This repository consists of several subprojects, each focusing on a unique aspec
 
 ### 3. [**Nanograv**](https://github.com/Team-Dhruva/DDA/blob/main/Nanograv/README.md)
    - **Description**: Processing and analyzing Nanograv data to search for low-frequency gravitational waves using radio pulsar timing techniques.
-   - **POC**: Rutvik
+   - **POC**: [Rutvik](https://github.com/azure-glades)
 
 ### 4. [**GAIA Project**](https://github.com/Team-Dhruva/DDA/blob/main/GAIA_Project/README.md)
    - **Description**: Using Gaia data to analyze the characteristics of star clusters, focusing on age and metallicity determination.
-   - **POC**: Prarthana P Kulkarni
+   - **POC**: [Prarthana P Kulkarni](https://github.com/kulkarniprar)
 
 ### 5. [**SLOAN**](https://github.com/Team-Dhruva/DDA/blob/main/SLOAN/README.md)
    - **Description**: Work in progress, focusing on research and analysis using the Sloan Digital Sky Survey (SDSS) dataset.
-   - **POC**: Atharva Agarwal
+   - **POC**: [Atharva Agarwal](https://github.com/TheDarkKnight2508)
 
 ### 6. [**Code(n)stellation**](https://github.com/Team-Dhruva/DDA/blob/main/Code(n)stellation/READE.md)
    - **Description**: A bi-weekly coding contest designed to enhance problem-solving skills through competitive programming challenges.
-   - **POC**: Atharva Agarwal
+   - **POC**: [Atharva Agarwal](https://github.com/TheDarkKnight2508)
 
 ### 7. [**Python Package**](https://github.com/Team-Dhruva/DDA/blob/main/Python_Package/README.md)
    - **Description**: Work in progress, aimed at developing reusable Python modules for astronomical data analysis.
-   - **POC**: Manohara
+   - **POC**: [Manohara](https://github.com/Manohara-Ai)
 
 ### 8. [**DDAxResearchxRadio**](https://github.com/Team-Dhruva/DDA/blob/main/DDAxResearchxRadio/README.md)
    - **Description**: Given the expected increase in solar activity this year, this project focuses on making meaningful observations and analyses of solar phenomena.
-   - **POC**: Varenya Thaker
+   - **POC**: [Varenya Thaker](https://github.com/varenyathaker)
 
 ### 9. [**ML for Exoplanets**](https://github.com/Team-Dhruva/DDA/blob/main/ML_for_Exoplanets/README.md)
    - **Description**: Work in progress, exploring the application of machine learning for exoplanet detection and classification.
    - **POC**: Suravi
 
 ## Contributing
-We welcome contributions from researchers, data scientists, and enthusiasts interested in astrophysical data analysis. Feel free to open issues, submit pull requests, or reach out for collaborations.
+We welcome contributions from researchers, data scientists, and enthusiasts interested in astrophysical data analysis. Feel free to reach out for collaborations.
 
 ## Contact
 For inquiries, discussions, or collaboration opportunities, reach out to **Team Dhruva**.
