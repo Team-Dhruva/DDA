@@ -8,7 +8,7 @@ This repository consists of several subprojects, each focusing on a unique aspec
 
 ### 1. [**Star Cluster Analysis**](https://github.com/Team-Dhruva/DDA/blob/main/Star_Cluster_Analysis/README.md)
    - **Description**: Analyzing galaxy interactions and star clusters using image processing techniques. The project aims to study characteristic features of star clusters, their distribution, and identify regions of active formation within interacting galaxies.
-   - **POC**: Manohara
+   - **POC**: [Manohara](https://github.com/Manohara-Ai)
 
 ### 2. [**LIGO**](https://github.com/Team-Dhruva/DDA/blob/main/LIGO/README.md)
    - **Description**: Utilizing LIGO data to validate General Relativity (GR) and study black hole spectroscopy. The project explores the applications of LIGO data and the analytical techniques used for gravitational wave research.
