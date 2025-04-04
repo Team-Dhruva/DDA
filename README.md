@@ -46,7 +46,7 @@ This repository consists of several subprojects, each focusing on a unique aspec
 We welcome contributions from researchers, data scientists, and enthusiasts interested in astrophysical data analysis. Feel free to reach out for collaborations.
 
 ## Contact
-For inquiries, discussions, or collaboration opportunities, reach out to **Team Dhruva**.
+For inquiries, discussions, or collaboration opportunities, reach out to [**Team Dhruva**](mailto:teamdhruva@rvce.edu.in).
 
 ---
 *Dhruva Data Analysis - Advancing Astrophysical Research Through Data Science*
